@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**Sagar-Kumar-Mandle/Sagar-Kumar-Mandle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hi, I’m Sagar Kumar Mandle  
 
-Here are some ideas to get you started:
+💻 Passionate about **Data Analytics and Databases**  
+📊 Skilled in **SQL, Excel, and PostgreSQL** for analyzing datasets and finding insights  
+🚀 Exploring **Python, Power BI, and Tableau** to grow as a Data Analyst  
+📂 Love working on projects with real-world data and sharing them here on GitHub  
+🎯 Goal: Build a strong career in **Data Analytics** and contribute to data-driven decisions  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools  
+- Databases: PostgreSQL, MySQL  
+- Tools: Excel, Power BI, Tableau  
+- Languages: SQL, Python (beginner)  
+- Version Control: Git & GitHub  
+
+### 📫 Connect with Me  
+- 💼 [LinkedIn](https://www.linkedin.com/)  
+- 📧 Email: *yourname@email.com*  
