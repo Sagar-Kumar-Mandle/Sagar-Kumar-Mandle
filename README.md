@@ -1,4 +1,4 @@
-## <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gif" width="40px" />, I'm Sagar </h1>
+## <h1 align="center"> Hi there <img src="Image/Waving Hand.gif" width="40px" />, I'm Sagar </h1>
 
 ### I enjoy applying data analytics and machine learning to solve real-world problems. With strong analytical thinking and self-motivation, I’m adaptable, detail-focused, and always eager to keep learning and growing. 
 
