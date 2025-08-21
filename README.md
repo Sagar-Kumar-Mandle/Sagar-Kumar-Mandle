@@ -15,5 +15,8 @@
 - Version Control: Git & GitHub  
 
 ### 📫 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 📧 Email: *yourname@email.com*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sagar-kumar-mandle-7086ba366/) 
+- 📧 Email: sagarmandle11135@gmail.com 
+
+
+
