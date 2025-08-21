@@ -10,7 +10,7 @@
 
 ### 🛠️ Skills & Tools  
 - Databases: PostgreSQL, MySQL  
-- Tools: Excel, Power BI, Tableau  
+- Tools: Excel, Power BI 
 - Languages: SQL, Python (beginner)  
 - Version Control: Git & GitHub  
 
