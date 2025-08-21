@@ -46,9 +46,8 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sagar-Kumar-Mandle&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar-Kumar-Mandle&layout=compact&theme=radical)
 
 
-### 📈 My GitHub Activity  
-[![Sagar github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sagar-Kumar-Mandlekp&bg_color=150a10&color=ffffff&line=f5f5f5&point=ffffff&area=true&hide_border=true)](https://github.com/Sagar-Kumar-Mandle/github-readme-activity-graph)
+
+
 
