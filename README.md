@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### 👋 Hi, I’m Sagar Kumar Mandle  
+### I enjoy applying data analytics and machine learning to solve real-world problems. With strong analytical thinking and self-motivation, I’m adaptable, detail-focused, and always eager to keep learning and growing. 
 
 💻 Passionate about **Data Analytics and Databases**  
 📊 Skilled in **SQL, Excel, and PostgreSQL** for analyzing datasets and finding insights  
