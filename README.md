@@ -46,9 +46,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar-Kumar-Mandle&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sagar-mandle&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sagar-Kumar-Mandlee&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-mandle&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar-Kumar-Mandle&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sagar-mandle&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Sagar-Kumar-Mandle&theme=radical&hide_border=true)
 
