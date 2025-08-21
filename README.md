@@ -19,17 +19,17 @@
 ### 🛠️ Skills & Tools  
 - Databases: PostgreSQL, MySQL
   
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) <br> <br>
   ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 - Tools: Excel, Power BI
 
-  ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
+  ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) <br> <br>
   ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 
 - Languages: SQL, Python (beginner)  
 
-  ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+  ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)<br> <br>
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
 ---
@@ -40,15 +40,15 @@
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sagar-Kumar-Mandle&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sagar-Kumar-Mandle&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar-Kumar-Mandle&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sagar-Kumar-Mandlee&show_icons=true&theme=radical)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sagar-Kumar-Mandle&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Sagar-Kumar-Mandle&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagar-Kumar-Mandle&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Sagar-Kumar-Mandle&theme=radical&hide_border=true)
+
+### 📈 My GitHub Activity  
+[![Sagar github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sagar-Kumar-Mandlekp&bg_color=150a10&color=ffffff&line=f5f5f5&point=ffffff&area=true&hide_border=true)](https://github.com/Sagar-Kumar-Mandle/github-readme-activity-graph)
 
