@@ -17,19 +17,19 @@
 ---
 
 ### 🛠️ Skills & Tools  
-- Databases: PostgreSQL, MySQL
+**Databases: PostgreSQL, MySQL**
   
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-- **Data Analysis & Visualization**  
+ **Data Analysis & Visualization**  
 
 - [![Excel](https://img.shields.io/badge/Excel-Advanced-green?logo=microsoft-excel&style=for-the-badge)](https://www.microsoft.com/en-us/microsoft-365/excel) 
 - [![Power BI](https://img.shields.io/badge/Power%20BI-Intermediate-yellow?logo=powerbi&style=for-the-badge)](https://www.microsoft.com/en-us/power-bi)  
 
--  **Programming Languages**  
+**Programming Languages**  
 
- - [![SQL](https://img.shields.io/badge/SQL-Intermediate-lightgrey?logo=mysql&style=for-the-badge)](https://www.mysql.com/)
+ - [![SQL](https://img.shields.io/badge/SQL-Intermediate-Darkblack?logo=mysql&style=for-the-badge)](https://www.mysql.com/)
  - [![Python](https://img.shields.io/badge/Python-Begineer-blue?logo=python&style=for-the-badge)](https://www.python.org/)  
 
 ---
