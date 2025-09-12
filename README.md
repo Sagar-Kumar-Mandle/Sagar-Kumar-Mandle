@@ -22,15 +22,15 @@
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-- Tools: Excel, Power BI
+- **Data Analysis & Visualization**  
 
-  ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
-  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+- [![Excel](https://img.shields.io/badge/Excel-Advanced-green?logo=microsoft-excel&style=for-the-badge)](https://www.microsoft.com/en-us/microsoft-365/excel) 
+- [![Power BI](https://img.shields.io/badge/Power%20BI-Intermediate-yellow?logo=powerbi&style=for-the-badge)](https://www.microsoft.com/en-us/power-bi)  
 
-- Languages: SQL, Python (beginner)  
+-  **Programming Languages**  
 
-  ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+ - [![SQL](https://img.shields.io/badge/SQL-Intermediate-lightgrey?logo=mysql&style=for-the-badge)](https://www.mysql.com/)
+ - [![Python](https://img.shields.io/badge/Python-Begineer-blue?logo=python&style=for-the-badge)](https://www.python.org/)  
 
 ---
 
