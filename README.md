@@ -35,10 +35,11 @@
 ---
 
 ### 🚀 Social Presence  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sagarkumar.mandle.357)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohan%20Sai%20Pandeti-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/sagar-kumar-mandle-7086ba366/))  
-[![Gmail](https://img.shields.io/badge/Gmail-pandetimohansai@gmail.com-red?logo=gmail&style=for-the-badge)](mailto:sagarmandle11135@gmail.com)  
-[![Status](https://img.shields.io/badge/Data%20Analyst-In%20Progress-success?style=for-the-badge)](https://www.linkedin.com/in/mohansaipandeti)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sagar%20Kumar%20Mandle-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/sagar-kumar-mandle-7086ba366)  
+[![Gmail](https://img.shields.io/badge/Gmail-sagarmandle11135@gmail.com-red?logo=gmail&style=for-the-badge)](mailto:sagarmandle11135@gmail.com)  
+[![Status](https://img.shields.io/badge/Data%20Analyst-In%20Progress-success?style=for-the-badge)](https://www.linkedin.com/in/sagar-kumar-mandle-7086ba366)  
+[![Facebook](https://img.shields.io/badge/Facebook-Sagar%20Kumar%20Mandle-1877F2?logo=facebook&style=for-the-badge)](https://www.facebook.com/sagarkumar.mandle.357)
+
 ---
 
 ## 📊 GitHub Stats
