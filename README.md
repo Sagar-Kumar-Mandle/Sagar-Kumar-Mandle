@@ -25,7 +25,6 @@
  **Data Analysis & Visualization**  
 
 - [![Excel](https://img.shields.io/badge/Excel-Advanced-green?logo=microsoft-excel&style=for-the-badge)](https://www.microsoft.com/en-us/microsoft-365/excel)
-- [![Excel](https://img.shields.io/badge/Excel-Advanced-black?logo=microsoft-excel&logoColor=white&style=for-the-badge&labelColor=black)](https://www.microsoft.com/en-us/microsoft-365/excel)
 - [![Power BI](https://img.shields.io/badge/Power%20BI-Intermediate-yellow?logo=powerbi&style=for-the-badge)](https://www.microsoft.com/en-us/power-bi)  
 
 **Programming Languages**  
