@@ -45,7 +45,6 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sagar-Kumar-Mandle&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Sagar-Kumar-Mandle&theme=radical&hide_border=true)
 
